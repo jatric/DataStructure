@@ -1,0 +1,11 @@
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp2.1\LinkedList_Stack.deps.json
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp2.1\LinkedList_Stack.runtimeconfig.json
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp2.1\LinkedList_Stack.runtimeconfig.dev.json
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp2.1\LinkedList_Stack.dll
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\bin\Debug\netcoreapp2.1\LinkedList_Stack.pdb
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.csprojAssemblyReference.cache
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.csproj.CoreCompileInputs.cache
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.AssemblyInfoInputs.cache
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.AssemblyInfo.cs
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.dll
+D:\Jitender\Personal\Application\DataStructure\LinkedList_Stack\LinkedList_Stack\obj\Debug\netcoreapp2.1\LinkedList_Stack.pdb
